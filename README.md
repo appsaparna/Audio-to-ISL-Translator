@@ -69,13 +69,6 @@ The confusion matrix shows that most test samples were classified correctly, wit
 
 ## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/uzibytes/sign2text.git
-cd sign2text
-```
-
 Create a virtual environment:
 
 ```bash
